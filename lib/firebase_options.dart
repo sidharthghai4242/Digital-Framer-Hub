@@ -33,46 +33,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAUaMTfQF-6gfMh2qBNMpiElKQGa1Jp9A0',
-    appId: '1:595686443810:web:b457e25af9b6df2632f37b',
-    messagingSenderId: '595686443810',
-    projectId: 'digitalfarmerhub',
-    authDomain: 'digitalfarmerhub.firebaseapp.com',
-    storageBucket: 'digitalfarmerhub.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBxVC3SOpODs-87oFyIbn-a2AP24kM5IEc',
-    appId: '1:595686443810:android:2f7af05af191814c32f37b',
-    messagingSenderId: '595686443810',
-    projectId: 'digitalfarmerhub',
-    storageBucket: 'digitalfarmerhub.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCpG17CHU0b2jh2Qr_0AKinUqnGtkoTq_E',
-    appId: '1:595686443810:ios:a6c6103b688392b232f37b',
-    messagingSenderId: '595686443810',
-    projectId: 'digitalfarmerhub',
-    storageBucket: 'digitalfarmerhub.appspot.com',
-    iosBundleId: 'com.auribises.digitalFarmerHub',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCpG17CHU0b2jh2Qr_0AKinUqnGtkoTq_E',
-    appId: '1:595686443810:ios:a6c6103b688392b232f37b',
-    messagingSenderId: '595686443810',
-    projectId: 'digitalfarmerhub',
-    storageBucket: 'digitalfarmerhub.appspot.com',
-    iosBundleId: 'com.auribises.digitalFarmerHub',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: 'b',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAUaMTfQF-6gfMh2qBNMpiElKQGa1Jp9A0',
-    appId: '1:595686443810:web:5e4a9bd0e4bcdee232f37b',
-    messagingSenderId: '595686443810',
-    projectId: 'digitalfarmerhub',
-    authDomain: 'digitalfarmerhub.firebaseapp.com',
-    storageBucket: 'digitalfarmerhub.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 }
