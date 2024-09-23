@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595686443810",
+    "project_id": "digitalfarmerhub",
+    "storage_bucket": "digitalfarmerhub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595686443810:android:2f7af05af191814c32f37b",
+        "android_client_info": {
+          "package_name": "com.auribises.digital_farmer_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxVC3SOpODs-87oFyIbn-a2AP24kM5IEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
